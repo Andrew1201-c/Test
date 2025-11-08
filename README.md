@@ -1,6 +1,5 @@
 # Compiling
-- Tools needed: CL (Microsoft Visual C++)
-Compile:
+- Tools needed: CL (Microsoft Visual C++):
 ```
 cl src/Development_test.cpp
 ```
